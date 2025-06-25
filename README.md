@@ -20,7 +20,6 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ## 📊 GitHub Stats
 
 ![Ruhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhibhardwaj28&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhibhardwaj28&layout=compact&theme=radical)
 
 ## 🤝 Connect with Me
