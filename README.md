@@ -1,4 +1,4 @@
-# Hi there, I'm Ruhi Bhardwaj 👋
+# Hi there, I'm Rajni Bhardwaj 👋
 
 ## Full Stack Developer & Tech Enthusiast
 
